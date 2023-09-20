@@ -20,7 +20,7 @@
     <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia, educação e conhecimento. Sempre buscando ser alguém melhor e mais conhecedor do todo a cada dia de passa.
+Apaixonado por tecnologia, educação e conhecimento. Sempre buscando ser alguém melhor e mais conhecedor do todo a cada dia.
 
 ## Mais informações
 
