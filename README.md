@@ -10,7 +10,7 @@
   <a href="https://github.com/MurilloLS"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/murillo-santos1/"><img src="https://img.shields.io/badge/LinkedIn-010101?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/murillo_lds/"><img src="https://img.shields.io/badge/Instagram-010101?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="murillo.lds01@gmail.com"><img src="https://img.shields.io/badge/Gmail-010101?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href=mailto:murillo.lds01@gmail.com><img src="https://img.shields.io/badge/Gmail-010101?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
