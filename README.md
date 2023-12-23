@@ -1,12 +1,32 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=295&lines=Ol%C3%A1!+Eu+sou+o+Murillo+%F0%9F%91%8B" alt="Typing SVG">
+  </a>
+</p>
 
-### Olá! Eu sou o Murillo 👋 
+<p align="center">
+  <a href="https://github.com/MurilloLS">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/murillo-santos1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilloLS)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitethe-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/murillo-santos1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_lds/)
+<p align="center">
+  <a href="https://www.instagram.com/murillo_lds/">
+    <img src="https://streak-stats.demolab.com/?user=MurilloLS&theme=transparent&locale=pt_BR&background=000&border=30A3DC&dates=FFF&" alt="GitHub Streak">
+  </a>
+</p>
 
-![MurilloLS GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloLS&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLS)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="250" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated GIF">
+</p>
+
+---
 
 ## Tecnologias do dia a dia 🌐
 
@@ -20,7 +40,6 @@
     <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia, educação e conhecimento. Sempre buscando ser alguém melhor e mais conhecedor do todo a cada dia.
 
 ## Mais informações
 
