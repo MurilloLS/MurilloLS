@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/murillo_lds/">
+  <a>
     <img src="https://streak-stats.demolab.com/?user=MurilloLS&theme=transparent&locale=pt_BR&background=000&border=30A3DC&dates=FFF&" alt="GitHub Streak">
   </a>
 </p>
