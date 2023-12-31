@@ -39,7 +39,7 @@
 ### Estudando nesse momento 📖
 <div style="display: inline_block"><br/>
     <img align="center" alt=aws" src="https://img.shields.io/badge/Amazon_AWS-010101?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img align="center" alt=azure" src="https://img.shields.io/badge/Amazon_AWS-010101?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img align="center" alt=azure" src="https://img.shields.io/badge/microsoft%20azure-010101?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
     <img align="center" alt=mongoDB" src="https://img.shields.io/badge/MongoDB-010101?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
