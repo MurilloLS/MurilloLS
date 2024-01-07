@@ -6,7 +6,7 @@
   <img width="250" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated GIF">
 </p>
 
-<div align="center">
+<div align="enter">
   <a href="https://github.com/MurilloLS"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/murillo-santos1/"><img src="https://img.shields.io/badge/LinkedIn-010101?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/murillo_lds/"><img src="https://img.shields.io/badge/Instagram-010101?style=for-the-badge&logo=instagram&logoColor=white"></a>
