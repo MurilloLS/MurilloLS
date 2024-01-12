@@ -24,7 +24,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MurilloLS&bg_color=000000&color=1100ff&line=1100ff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
-### Tecnologias do dia a dia 🌐
+### Tecnologias do dia a di 🌐
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white"/>
