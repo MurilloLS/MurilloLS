@@ -34,7 +34,7 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-010101?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-### Estudando nesse momento 📖
+### Estudando nesse moment 📖
 <div style="display: inline_block"><br/>
     <img align="center" alt=aws" src="https://img.shields.io/badge/Amazon_AWS-010101?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img align="center" alt=azure" src="https://img.shields.io/badge/microsoft%20azure-010101?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
