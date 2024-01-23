@@ -45,6 +45,6 @@
   - 🔥 Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas.
   - ⚡ Dia a dia: Algoritmos, café, depuração.
   - 🎮 Hobbies: Jogar video game e praticar esporte!
-  - 🎬 Saga Favorita: Star Wars
+  - 🎬 Saga Favorita: Star Wars.
   - 🤘 Rock na alma!
  
