@@ -41,7 +41,7 @@
     <img align="center" alt=mongoDB" src="https://img.shields.io/badge/MongoDB-010101?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
-### Um pouco mais sobre mim 😁
+### Um pouco mais sobre mim😁
   - 🔥 Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas.
   - ⚡ Dia a dia: Algoritmos, café, depuração.
   - 🎮 Hobbies: Jogar video game e praticar esporte!
