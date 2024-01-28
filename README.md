@@ -32,7 +32,7 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-010101?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-010101?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-010101?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div><br/>
+</div><br/
 
 ### Estudando nesse momento 📖
 <div style="display: inline_block"><br/>
