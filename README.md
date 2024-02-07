@@ -31,14 +31,14 @@
     <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-010101?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-010101?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-010101?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <img align="center" alt=mongoDB" src="https://img.shields.io/badge/MongoDB-010101?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-010101?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt=azure" src="https://img.shields.io/badge/microsoft%20azure-010101?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div><br/>
 
 ### Estudando nesse momento 📖
 <div style="display: inline_block"><br/>
     <img align="center" alt=aws" src="https://img.shields.io/badge/Amazon_AWS-010101?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img align="center" alt=azure" src="https://img.shields.io/badge/microsoft%20azure-010101?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    <img align="center" alt=mongoDB" src="https://img.shields.io/badge/MongoDB-010101?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
 ### Um pouco mais sobre mim 😆
