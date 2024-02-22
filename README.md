@@ -4,7 +4,7 @@
 
 <p align="center">
   <img width="250" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated GIF">
-</p>
+</p
 
 <div align="center">
   <a href="https://github.com/MurilloLS"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white"></a>
