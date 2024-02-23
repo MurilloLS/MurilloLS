@@ -46,5 +46,5 @@
   - ⚡ Dia a dia: Algoritmos, café, depuração.
   - 🎮 Hobbies: Jogar video game e praticar esporte.
   - 🎬 Saga Favorita: Star Wars.
-  - 🤘 Rock na alma!
+  - 🤘 Rock na alma
  
