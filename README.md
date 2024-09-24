@@ -24,21 +24,22 @@
 
 ### Tecnologias do dia a dia 🌐
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-010101?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-010101?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-010101?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-010101?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    <img align="center" alt=mongoDB" src="https://img.shields.io/badge/MongoDB-010101?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-010101?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt=azure" src="https://img.shields.io/badge/microsoft%20azure-010101?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <img align="center" alt=azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+    <img align="center" alt=visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+    <img align="center" alt=git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
 ### Estudando nesse momento 📖
 <div style="display: inline_block"><br/>
-    <img align="center" alt=aws" src="https://img.shields.io/badge/Amazon_AWS-010101?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img align="center" alt=angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img align="center" alt=oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+    <img align="center" alt=oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </div><br/>
 
 ### Um pouco mais sobre mim 😆
