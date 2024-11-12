@@ -36,6 +36,7 @@
     <img align="center" alt=angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div><br/>
 
+
 ### Estudando nesse momento 📖
 <div style="display: inline_block"><br/>
     <img align="center" alt=oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
