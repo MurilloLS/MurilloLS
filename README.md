@@ -19,7 +19,6 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MurilloLS&bg_color=000000&color=1100ff&line=1100ff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### Tecnologias do dia a dia 🌐
