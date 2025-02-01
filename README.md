@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murillo;Nascido+e+criado+no+Brasil;Amante+de+Tecnologia;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img width="250" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animated GIF">
-</p>
-
 <div align="center">
   <a href="https://github.com/MurilloLS"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/murillo-santos1/"><img src="https://img.shields.io/badge/LinkedIn-010101?style=for-the-badge&logo=linkedin&logoColor=white"></a>
