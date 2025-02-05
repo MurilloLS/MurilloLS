@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murillo;Nascido+e+criado+no+Brasil;Amante+de+Tecnologia;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murillo;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/MurilloLS"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -8,12 +8,6 @@
   <a href="https://www.instagram.com/murillo_lds/"><img src="https://img.shields.io/badge/Instagram-010101?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href=mailto:murillo.lds01@gmail.com><img src="https://img.shields.io/badge/Gmail-010101?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-<p align="center">
-  <a>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurilloLS&theme=transparent&locale=pt_BR&background=000&border=30A3DC&dates=FFF">
-  </a>
-</p>
 
 ---
 
