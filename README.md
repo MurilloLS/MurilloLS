@@ -1,41 +1,97 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+# 💫 About Me:
+Hello World! I'm **Murillo Santos**, a Brazilian **Software Engineer** and **Full-Stack Developer** 👋🏼  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Murillo;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+👨🏼‍🎓 **Education:**  
+🎓 Associate Degree in **Systems Analysis and Development** - Faculdade de Tecnologia de Praia Grande (2023 - 2026)  
+🔧 Technical Degree in **Mechatronics** - Escola e Faculdade Fortec (2021 - 2022)  
 
-<div align="center">
-  <a href="https://github.com/MurilloLS"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/murillo-santos1/"><img src="https://img.shields.io/badge/LinkedIn-010101?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/murillo_lds/"><img src="https://img.shields.io/badge/Instagram-010101?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href=mailto:murillo.lds01@gmail.com><img src="https://img.shields.io/badge/Gmail-010101?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+💼 **Experience:**  
+🕹 **Software Engineer (Part-Time)** @ **Caju Game Labs** *(Oct 2024 - Present)*  
+🖥 **Freelance Full-Stack Developer** *(Jan 2023 - Aug 2024)*  
 
 ---
 
-### Tecnologias do dia a dia 🌐
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img align="center" alt="sqlservice" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    <img align="center" alt=azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    <img align="center" alt=visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    <img align="center" alt=git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="center" alt=angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-</div><br/>
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.instagram.com/murillo_lds/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/murillo-santos1">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MurilloLS">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:murillo.lds01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-### Estudando nesse momento 📖
-<div style="display: inline_block"><br/>
-    <img align="center" alt=oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-</div><br/>
+# 💻 Tech Stack:
+### 🚀 Programming Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+</p>
 
-### Um pouco mais sobre mim 😆
-  - 🔥 Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas.
-  - ⚡ Dia a dia: Algoritmos, café, depuração.
-  - 🎮 Hobbies: Jogar video game e praticar esporte.
-  - 🎬 Saga Favorita: Star Wars.
-  
- 
+### 🌍 Frontend Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+### 🏗 Backend Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>
+</p>
+
+### 🗄 Databases  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+### ☁ Cloud & DevOps  
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/>
+</p>
+
+### 🛠 Tools & Version Control  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/>
+</p>
+
+---
+
+# 📌 Notable Projects:
+📌 **[Employee Management System](https://github.com/MurilloLS/AngularEmployeeManage)**  
+📌 **[Employee Management API](https://github.com/MurilloLS/WebAPIFuncionarios)**  
+📌 **[Ecommerce API](https://github.com/MurilloLS/Ecommerce-api)**  
+📌 **[Market Automation System](https://github.com/MurilloLS/CrudSupermercado-Csharp)**  
+
+---
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MurilloLS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+</div>
