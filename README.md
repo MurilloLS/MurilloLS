@@ -7,7 +7,7 @@ Hello World! I'm **Murillo Santos**, a Brazilian **Software Engineer** and **Ful
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-santos1)
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MurilloLS)
   [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murillo.lds01@gmail.com)
-  [![CV](https://img.shields.io/badge/Check_my-CV-blue)](https://drive.google.com/file/d/1gmvs7Oho3HX3lohW80mLzTogS9bZyf2V/view?usp=drive_link)
+  [![CV](https://img.shields.io/badge/Check_my-CV-blue)](https://docs.google.com/document/d/14exEYbL7CxyYL1D8WQC6t2yBf1g9hr8iVaKRkoiyxa8/edit?usp=sharing)
 
 ---
 
