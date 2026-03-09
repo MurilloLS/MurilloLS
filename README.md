@@ -35,12 +35,6 @@ Hello World! I'm **Murillo Santos**, a Brazilian **Software Engineer** and **Ful
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)    
 
 ---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MurilloLS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-</div>
 
